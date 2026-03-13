@@ -24,7 +24,7 @@ Hi! I’m Tariq, a second-year graduate student in the Mechanical Engineering De
   I am always open to collaborating on projects related to robotics, perception, motion planning, state estimation, and autonomy!
 
 - 📫 **How to Reach Me:**  
-  - **Email:** [junaidhtariq@gmail.com](mailto:junaidhtariq@gmail.com)  
+  - **Email:** [jhtariq@gmail.com](mailto:jhtariq@gmail.com)  
   - **LinkedIn:** [linkedin.com/in/jhtariq](https://linkedin.com/in/jhtariq)  
   - **Website:** [jhtariq.github.io](https://jhtariq.github.io)  
 
