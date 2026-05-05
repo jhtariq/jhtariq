@@ -18,10 +18,4 @@ Let’s build something, coffee first.
 Speech AI · Deepfake Detection · Speaker Recognition · Speech Emotion  
 Robotics · Perception · Systems that actually work
 
-<br/>
-
-### Tech I use
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,ros,linux,git,docker" />
-
 </div>
