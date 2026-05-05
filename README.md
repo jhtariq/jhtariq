@@ -1,34 +1,35 @@
-# Hi there, I'm Tariq 👋
+<div align="center">
 
-Hi! I’m Tariq, a second-year graduate student in the Mechanical Engineering Department at Carnegie Mellon University (CMU) and a member of the **Robotic Caregiving and Human Interaction Lab**. I am actively looking for **full-time robotics roles** in the domains of **perception**, **planning**, and **state estimation**, so feel free to reach out!
+<img src="https://raw.githubusercontent.com/jhtariq/jhtariq/main/ChatGPTImageMay5202602_24_00P.jpeg" width="220" style="border-radius: 50%;" />
 
-- 👨‍💻 **Research:**  
-  I am currently advised by **Prof. Zackory Erickson**, focusing on **real-time state estimation of deformable objects (cloth)** for robotic manipulation tasks. My work aims to develop a first-of-its-kind state estimation framework capable of sub-1s detection, improving robotic interaction with deformable materials.  
-  I have also contributed to the development of an **assistive knee brace** prototype designed for continuous monitoring of post-surgery knee movements outside clinical settings.
+<br/>
 
-- 🏢 **Industry Experience:**  
-  - **Summer 2024:** I interned at **Oshkosh Corporation** as an **Autonomy Intern**, where I developed and deployed a high-accuracy **semantic segmentation model** in a **ROS 2 autonomy stack** on NVIDIA Orin, enhancing AV navigation reliability and reducing dependency on HD maps.  
-  - **Previously:** During my undergrad, I interned at **Gamma Technologies**, working on Electric Vehicle modeling, thermal management of batteries, and autonomy development models using **GT-Suite** packages.
+# Hey, I’m Tariq
 
-- 🎓 **Education:**  
-  I graduated with a **B.Tech in Mechanical Engineering** from **NIT Trichy, India**, in 2023. My undergraduate research focused on **prototyping MedTech solutions** and applying **AI techniques** like NLP, Machine Learning, and Image Processing to solve real-world problems.
+### Speech enthusiast. Petrol head. Tinkerer.
 
-- 🚀 **Interests:**  
-  I am passionate about advancing autonomous systems across diverse environments, with a strong focus on:  
-  - **Real-time trajectory optimization**  
-  - **Motion planning and control**  
-  - **Navigation and Perception**  
-  - **Integrating deep learning for enhanced performance and adaptability**
+Code, caffeine, and a bit of chaos.  
+Let’s build something, coffee first.
 
-- 🌟 **Looking to Collaborate On:**  
-  I am always open to collaborating on projects related to robotics, perception, motion planning, state estimation, and autonomy!
+<br/>
 
-- 📫 **How to Reach Me:**  
-  - **Email:** [jhtariq@gmail.com](mailto:jhtariq@gmail.com)  
-  - **LinkedIn:** [linkedin.com/in/jhtariq](https://linkedin.com/in/jhtariq)  
-  - **Website:** [jhtariq.github.io](https://jhtariq.github.io)  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Build.+Code.+Deploy.+Repeat.;Speech+AI+%7C+Systems+%7C+Coffee;Destination%3A+TBD" />
 
-<!---
-jhtariq/jhtariq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br/><br/>
+
+### Currently into
+
+Speech AI · Deepfake Detection · Speaker Recognition · Emotion AI  
+Robotics · Perception · Systems that actually work
+
+<br/>
+
+### Always happy to chat about
+
+Audio ML · Research ideas · Cars · Coffee · Weird side projects
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,ros,linux,git,docker" />
+
+</div>
