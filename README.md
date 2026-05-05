@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/jhtariq/jhtariq/main/ChatGPTImageMay5202602_24_00P.jpeg" width="220" />
-
-<br/>
-
 # Hey, I’m Tariq
 
 ### Speech enthusiast. Petrol head. Tinkerer.
